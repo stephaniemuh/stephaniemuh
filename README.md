@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @steph
+- 👀 I’m interested in ...learning AI
+- 🌱 I’m currently learning about AI Inference ...
